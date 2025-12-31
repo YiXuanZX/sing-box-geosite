@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/YiXuanZX/rules/main/cn-additional-list-clash-classical.yaml
+https://raw.githubusercontent.com/JohnsonRan/CRules/mihomo/resources/rules/ai.txt
