@@ -1,4 +1,6 @@
 https://raw.githubusercontent.com/YiXuanZX/rules/main/ruleset/ai.txt
 https://raw.githubusercontent.com/YiXuanZX/rules/main/ruleset/china-list.txt
 https://raw.githubusercontent.com/YiXuanZX/rules/main/ruleset/cn.txt
+https://raw.githubusercontent.com/YiXuanZX/rules/main/ruleset/cn_ip.txt
+https://raw.githubusercontent.com/YiXuanZX/rules/main/ruleset/telegram_ip.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
